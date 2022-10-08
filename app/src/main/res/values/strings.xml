@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DailyBlogger2</string>
+    <string name="LoginButton">LoginButton</string>
+    <string name="Login">LOGIN</string>
+    <string name="Name">Full Name</string>
+    <string name="Register">REGISTER</string>
+    <string name="appLogo">appLogo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="mainpage">MAIN PAGE</string>
+    <string name="photo">photo</string>
+    <string name="addPostButton"> AddPost</string>
+    <string name="UserName">UserName</string>
+    <string name="Description">Description</string>
+    <string name="LOGOUT">LOGOUT</string>
+    <string name="Continue">CONTINUE AS A GUEST</string>
+</resources>
